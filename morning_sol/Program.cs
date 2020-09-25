@@ -6,7 +6,7 @@ namespace morning_sol
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!Dmeo Branch");
+            Console.WriteLine("Hello World! Master Branch");
         }
     }
 }
